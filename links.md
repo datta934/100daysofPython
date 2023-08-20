@@ -25,3 +25,7 @@ https://www.w3schools.com/python/ref_list_index.asp
 ### Day 11
 https://docs.python.org/3/library/functions.html#sum
 https://developers.google.com/edu/python/lists#list-methods
+
+### Day 12
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+https://pythontutor.com/visualize.html#mode=edit

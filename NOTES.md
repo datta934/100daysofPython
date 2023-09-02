@@ -6,12 +6,30 @@
 - [x] Variables
 
 ### Day 2
+- [x] Data Types
+- [x] Math Operators
+- [x] Numbers and Strings
+- 
 ### Day 3
+- [x] if/else
+- [x] Logical Operators
+
 ### Day 4
+- [x] List
+- [x] Input
+
 ### Day 5
+- [x] Loops
+
 ### Day 6
+- [x] Function
+
 ### Day 7
+- [x] Challenges
+
 ### Day 8
+- [x] Function Parameters
+
 ### Day 9
 - [x] Lists
 - [x] Dictionary
@@ -27,3 +45,9 @@
 - [x] Local vs Global Scope
 - [x] No Block Scope
 - [x] 'global'
+
+### Day 13
+- [x] Debugging
+
+### Day 14
+

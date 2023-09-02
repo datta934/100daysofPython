@@ -50,4 +50,7 @@
 - [x] Debugging
 
 ### Day 14
+- [x] Higher Lower Game
+
+### Day 15
 
